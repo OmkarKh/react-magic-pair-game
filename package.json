@@ -1,4 +1,5 @@
 {
+  "homepage": "https://OmkarKh.github.io/react-magic-pair-game",
   "name": "magic-memory",
   "version": "0.1.0",
   "private": true,
@@ -12,8 +13,10 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts build",
+    "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
