@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-magic-pair-game/static/css/main.62f0f896.chunk.css",
+    "main.js": "/react-magic-pair-game/static/js/main.b94c23d0.chunk.js",
+    "main.js.map": "/react-magic-pair-game/static/js/main.b94c23d0.chunk.js.map",
+    "runtime-main.js": "/react-magic-pair-game/static/js/runtime-main.6c8ebdc5.js",
+    "runtime-main.js.map": "/react-magic-pair-game/static/js/runtime-main.6c8ebdc5.js.map",
+    "static/js/2.4bd328cf.chunk.js": "/react-magic-pair-game/static/js/2.4bd328cf.chunk.js",
+    "static/js/2.4bd328cf.chunk.js.map": "/react-magic-pair-game/static/js/2.4bd328cf.chunk.js.map",
+    "index.html": "/react-magic-pair-game/index.html",
+    "static/css/main.62f0f896.chunk.css.map": "/react-magic-pair-game/static/css/main.62f0f896.chunk.css.map",
+    "static/js/2.4bd328cf.chunk.js.LICENSE.txt": "/react-magic-pair-game/static/js/2.4bd328cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c8ebdc5.js",
+    "static/js/2.4bd328cf.chunk.js",
+    "static/css/main.62f0f896.chunk.css",
+    "static/js/main.b94c23d0.chunk.js"
+  ]
+}
