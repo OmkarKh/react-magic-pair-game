@@ -10,7 +10,7 @@ Arrow functions
 
 ## Demo
 ### Video
-[Click here for video](https://www.youtube.com/watch?v=3zqr0m3HMnM)
+[Click here for video](https://youtu.be/dtCsYtWNhYY)
 ### Screenshots
 ![Screenshot 1](https://user-images.githubusercontent.com/53064774/148673611-6621eeff-0115-4676-bd78-6632b2935f87.png)  
 ![Screenshot 2](https://user-images.githubusercontent.com/53064774/148673614-117e9243-b625-460b-8070-0ca2d30068f3.png)  
